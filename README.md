@@ -14,9 +14,9 @@ A portable and platform-agnostic library for controlling buzzers in embedded sys
 ## Directory Structure
 ```
 project_root/
-|-- buzzer.h            # Header file defining the library's API
-|-- buzzer.c            # Source file implementing the library logic
-|-- main.c              # Example usage of the library
+|-- Inc/buzzer.h        # Header file defining the library's API
+|-- Src/buzzer.c        # Source file implementing the library logic
+|-- Src/main.c          # Example usage of the library
 |-- README.md           # This file
 ```
 
